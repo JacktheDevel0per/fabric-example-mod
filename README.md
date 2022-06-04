@@ -1,5 +1,5 @@
 
-'# Fabric Example Mod
+# Fabric Example Mod
 
 ## Setup
 
