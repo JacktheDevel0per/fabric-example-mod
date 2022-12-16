@@ -13,4 +13,7 @@ This template is available under the CC0 license. Feel free to learn from it and
 
 
 ## Version
-1.16.x
+Minecraft = 1.16.x
+Java >= 17
+
+
